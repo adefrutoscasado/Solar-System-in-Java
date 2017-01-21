@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="lib/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="lib/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/practica frutos/Probando2/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/lzma.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lwjgl.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="//ALEX-PC/Users/Alex/MEGA/UNIVERSIDAD/3D (1)/lwjgl-2.8.5/jar/lzma.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
